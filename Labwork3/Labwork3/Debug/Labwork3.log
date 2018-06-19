@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Labwork3.cpp
+c:\users\group-bbu181\source\repos\step\labwork3\labwork3\labwork3.cpp(37): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\group-bbu181\source\repos\step\labwork3\labwork3\labwork3.cpp(40): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\group-bbu181\source\repos\step\labwork3\labwork3\labwork3.cpp(42): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\group-bbu181\source\repos\step\labwork3\labwork3\labwork3.cpp(44): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Labwork3.vcxproj -> C:\Users\group-bbu181\source\repos\Step\Labwork3\Debug\Labwork3.exe
